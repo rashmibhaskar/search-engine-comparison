@@ -1,0 +1,9 @@
+Search Engines Compared: Google and Yahoo
+
+Statistics: 
+    Average Overlap Percentage: 25.1%
+    Average Spearman's Co-efficient(rho): ~ -5.66
+
+From the above statistics, we come across that on an average, there is 25.1% overlap in the search results between Google and Yahoo. 
+However, the average value of Spearman's coeffiecient that measures the correlation between the two Search Engines is -5.66, which is a negative value. 
+This means that, although there is an overlap in the results, their ordering might not necessarily be the same.
